@@ -1,0 +1,7 @@
+
+djangorestframework
+djangorestframework-simplejwt
+PyJWT
+qrcode
+Pillow
+python-dotenv
